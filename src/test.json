@@ -1,0 +1,101 @@
+{
+    "itens": {
+        "0001": [
+            {
+                "name": "Slightly Magical Footwear",
+                "cost": 300,
+                "description": "Grants an additional 10 Move Speed. Boots that build from Slightly Magical Footwear retain this bonus Move Speed.",
+                "atributes": "25 Move Speed",
+                "image": "2422_class_t1_slightlymagicalboots.png"
+            }
+        ],
+        "0002": [
+            {
+                "name": "Boots",
+                "cost": 300,
+                "description": "",
+                "atributes": "25 Move Speed",
+                "image": "1001_class_t1_bootsofspeed.png"
+            }
+        ],
+        "0003": [
+            {
+                "name": "Boots of Swiftness",
+                "cost": 900,
+                "description": "The strength of movement slowing effects is reduced by 25%.",
+                "atributes": "60 Move Speed",
+                "image": "3009_class_t2_bootsofswiftness.png"
+            }
+        ],
+        "0004": [
+            {
+                "name": "Ionian Boots of Lucidity",
+                "cost": 950,
+                "description": "Gain 12 Summoner Spell Haste.''This item is dedicated in honor of Ionia's victory over Noxus in the Rematch for the Southern Provinces on 10 December, 20 CLE.'",
+                "atributes": [
+                    "20 Ability Haste",
+                    "45 Move Speed"
+                ],
+                "image": "3158_class_t2_ionianbootsoflucidity.png"
+            }
+        ],
+        "0005": [
+            {
+                "name": "Mobility Boots",
+                "cost": 1000,
+                "description": "When out of combat for at least 5 seconds, increase this item's effect to 115.",
+                "atributes": "25 Move Speed",
+                "image": "3117_class_t2_bootsofmobility.png"
+            }
+        ],
+        "0006": [
+            {
+                "name": "Mercury's Treads",
+                "cost": 1100,
+                "description": "Tenacity reduces the duration of Stun, Slow, Taunt, Fear, Silence, Blind, Polymorph and Immobilizing effects. It has no effect on Airborne or Suppression.",
+                "atributes": [
+                    "25 Magic Resist",
+                    "45 Move Speed",
+                    " 30% Tenacity"
+                ],
+                "image": "3111_class_t2_mercurystreads.png"
+            }
+        ],
+        "0007": [
+            {
+                "name": "Plated Steelcaps",
+                "cost": 1100,
+                "description": "Reduces incoming damage from Attacks by 12%.",
+                "atributes": [
+                    "20 Armor",
+                    "45 Move Speed"
+                ],
+                "image": "3047_class_t2_ninjatabi.png"
+            }
+        ],
+        "0008": [
+            {
+                "name": "Sorcerer's Shoes",
+                "cost": 1100,
+                "description": "",
+                "atributes": [
+                    "18 Magic Penetration",
+                    "45 Move Speed"
+                ],
+                "image": "3020_class_t2_sorcerersshoes.png"
+            }
+        ],
+        "0009": [
+            {
+                "name": "Berserker's Greaves",
+                "cost": 1100,
+                "description": "",
+                "atributes": [
+                    "35% Attack Speed",
+                    "45 Move Speed"
+                ],
+                "image": "3006_class_t2_berserkersgreaves.png"
+            }
+        ]
+    }
+}
